@@ -1,4 +1,4 @@
-#----------------------------------- https://github.com/m4mallu/clonebot --------------------------------------------#
+#----------------------------------- https://github.com/konay1122/clonebot --------------------------------------------#
 import os
 import logging
 from logging.handlers import RotatingFileHandler
